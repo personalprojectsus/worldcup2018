@@ -2,87 +2,279 @@
   "stadiums": [
     {
       "id": 1,
-      "name": "Luzhniki Stadium",
-      "city": "Moscow",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Luzhniki_Stadium2.jpg",
+      "stadiumName": "Luzhniki Stadium",
+      "stadiumCity": "Moscow",
       "lat": 55.715765,
-      "lng": 37.5515217
+      "lng": 37.5515217,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 2,
-      "name": "Otkrytiye Arena",
-      "city": "Moscow",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadium_Spartak_in_Moscow.jpg/1200px-Stadium_Spartak_in_Moscow.jpg",
+      "stadiumName": "Otkrytiye Arena",
+      "stadiumCity": "Moscow",
       "lat": 55.817765,
-      "lng": 37.440363
+      "lng": 37.440363,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 3,
-      "name": "Krestovsky Stadium",
-      "city": "Saint Petersburg",
+      "image": "https://static.turbosquid.com/Preview/2017/02/08__02_56_15/Krestovsky_Stadium0000.jpg5906D55C-7F0C-4CC5-A20E-DABABBD2B110Original-1.jpg",
+      "stadiumName": "Krestovsky Stadium",
+      "stadiumCity": "Saint Petersburg",
       "lat": 59.97274,
-      "lng": 30.221408
+      "lng": 30.221408,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 4,
-      "name": "Kaliningrad Stadium",
-      "city": "Kaliningrad",
+      "image": "http://russianfootballnews.com/wp-content/uploads/2018/02/stadion_kaliningrad145.jpg",
+      "stadiumName": "Kaliningrad Stadium",
+      "stadiumCity": "Kaliningrad",
       "lat": 54.698157,
-      "lng": 20.533859
+      "lng": 20.533859,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 5,
-      "name": "Kazan Arena",
-      "city": "Kazan",
+      "image": "https://cdni.rbth.com/rbthmedia/images/2018.02/original/5a8afc3685600a14fc0780df.jpg",
+      "stadiumName": "Kazan Arena",
+      "stadiumCity": "Kazan",
       "lat": 55.820983,
-      "lng": 49.160966
+      "lng": 49.160966,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 6,
-      "name": "Nizhny Novgorod Stadium",
-      "city": "Nizhny Novgorod",
+      "image": "http://stadiumdb.com/pic-projects/stadion_nizhny_novgorod/stadion_nizhny_novgorod10.jpg",
+      "stadiumName": "Nizhny Novgorod Stadium",
+      "stadiumCity": "Nizhny Novgorod",
       "lat": 56.337287,
-      "lng": 43.963251
+      "lng": 43.963251,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 7,
-      "name": "Cosmos Arena",
-      "city": "Samara",
+      "image": "http://img.fifa.com/mm/photo/affederation/tv/02/53/29/87/2532987_full-lnd.jpg",
+      "stadiumName": "Cosmos Arena",
+      "stadiumCity": "Samara",
       "lat": 53.278146,
-      "lng": 50.238854
+      "lng": 50.238854,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 8,
-      "name": "Volgograd Arena",
-      "city": "Volgograd",
+      "image": "https://pbs.twimg.com/media/DN97imKW0AU-TOM.jpg",
+      "stadiumName": "Volgograd Arena",
+      "stadiumCity": "Volgograd",
       "lat": 48.734195,
-      "lng": 44.548345
+      "lng": 44.548345,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 9,
-      "name": "Mordovia Arena",
-      "city": "Saransk",
+      "image": "http://www.thefootballstadiums.com/uploads/data/other/4830_Saransk-vizualizace-08%20-%20kopie%20-%20kopie.jpg",
+      "stadiumName": "Mordovia Arena",
+      "stadiumCity": "Saransk",
       "lat": 54.181795,
-      "lng": 45.203851
+      "lng": 45.203851,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 10,
-      "name": "Rostov Arena",
-      "city": "Rostov-on-Don",
+      "image": "http://spordiennustus.com/wp-content/uploads/2018/03/rostovi-areena-venemaa.jpg",
+      "stadiumName": "Rostov Arena",
+      "stadiumCity": "Rostov-on-Don",
       "lat": 47.209581,
-      "lng": 39.738424
+      "lng": 39.738424,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 11,
-      "name": "Fisht Olympic Stadium",
-      "city": "Sochi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Fisht_Olympic_Stadium_2017.jpg",
+      "stadiumName": "Fisht Olympic Stadium",
+      "stadiumstadiumCity": "Sochi",
       "lat": 43.402011,
-      "lng": 39.955709
+      "lng": 39.955709,
+      "stadiumSpecs": {
+        "capacity": 35696,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     },
     {
       "id": 12,
-      "name": "Central Stadium",
-      "city": "Yekaterinburg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Almaty_Central_Stad.jpeg",
+      "stadiumName": "Central Stadium",
+      "stadiumstadiumCity": "Yekaterinburg",
       "lat": 56.83249,
-      "lng": 60.573585
+      "lng": 60.573585,
+      "stadiumSpecs": {
+        "capacity": 20000,
+        "completed": 18000,
+        "cost": 28000
+      },
+      "gamesHosted": {
+        "date": "2018-06-15T21:00:00+03:00",
+        "whoVswho": "Brazil vs Argentina"
+      },
+      "hostCity": {
+        "imageHostCity": "Test",
+        "descriptionHostCity": "Moscow",
+        "latitude": 12.45,
+        "longitude": 45.23
+      }
     }
   ],
   "tvchannels": [
