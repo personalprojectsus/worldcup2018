@@ -233,7 +233,7 @@
       "id": 11,
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Fisht_Olympic_Stadium_2017.jpg",
       "stadiumName": "Fisht Olympic Stadium",
-      "stadiumstadiumCity": "Sochi",
+      "stadiumCity": "Sochi",
       "lat": 43.402011,
       "lng": 39.955709,
       "stadiumSpecs": {
@@ -256,7 +256,7 @@
       "id": 12,
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Almaty_Central_Stad.jpeg",
       "stadiumName": "Central Stadium",
-      "stadiumstadiumCity": "Yekaterinburg",
+      "stadiumCity": "Yekaterinburg",
       "lat": 56.83249,
       "lng": 60.573585,
       "stadiumSpecs": {
