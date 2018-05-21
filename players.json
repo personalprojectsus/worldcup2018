@@ -1,1 +1,3258 @@
-
+[
+  {
+    "id": "1",
+    "countryName": "Argentina",
+    "playerList": [
+      {
+        "playerName": "Sergio Romero",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Wilfredo Caballero ",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Nahuel Guzman",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Gabriel Mercado",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Cristian Ansaldi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Eduardo Salvio ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Javier Mascherano",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nicolas Otamendi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Lucas Biglia",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ever Banega",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Angel Di Maria",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Lionel Messi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Paulo Dybala",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Sergio Aguero",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "countryName": "Australia",
+    "playerList": [
+      {
+        "playerName": "Brad Jones",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Mitch Langeraks",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Mat Ryan",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Aziz Behich",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Milos Degenek",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Alex Gersbach",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Matthew Jurman",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "James Meredith",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Josh Brillante",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "AliJackson Irvinesson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mile Jedinak",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Daniel Arzani",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Tim Cahill",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Apostolos Giannou",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "countryName": "Belgium",
+    "playerList": [
+      {
+        "playerName": "Alisson",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Dani Alves",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marquinhos",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Thiago Silva",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Thiago Silva",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Miranda",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marcelo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Casemiro",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Renato Augusto",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Paulinho",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Coutinho",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Neymar",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Roberto Firmino",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Gabriel Jesus",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "countryName": "Brazil",
+    "playerList": [
+      {
+        "playerName": "Alisson",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Dani Alves",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marquinhos",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Thiago Silva",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Thiago Silva",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Miranda",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marcelo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Casemiro",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Renato Augusto",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Paulinho",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Coutinho",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Neymar",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Roberto Firmino",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Gabriel Jesus",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "countryName": "Columbia",
+    "playerList": [
+      {
+        "playerName": "Danijel Subasic",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Dominik Livakovic",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Karlo Letica",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Borna Barisic",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dejan Lovren ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ivan Strinic",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Domagoj Vidac",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Vedran Corluka ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Danijel Subasic",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Ivan Rakitic",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Luka Modric",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Mario Mandzukic ",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ivan Perisic",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": " Nikola Kalinic",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "countryName": "Costa Rica",
+    "playerList": [
+      {
+        "playerName": "Danijel Subasic",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Dominik Livakovic",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Karlo Letica",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Borna Barisic",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dejan Lovren ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ivan Strinic",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Domagoj Vidac",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Vedran Corluka ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Danijel Subasic",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Ivan Rakitic",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Luka Modric",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Mario Mandzukic ",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ivan Perisic",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": " Nikola Kalinic",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "countryName": "Croatia",
+    "playerList": [
+      {
+        "playerName": "Danijel Subasic",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Dominik Livakovic",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Karlo Letica",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Borna Barisic",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dejan Lovren ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ivan Strinic",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Domagoj Vidac",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Vedran Corluka ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Danijel Subasic",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Ivan Rakitic",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Luka Modric",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Mario Mandzukic ",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ivan Perisic",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": " Nikola Kalinic",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "countryName": "Denmark ",
+    "playerList": [
+      {
+        "playerName": "Frederik Rønnow",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kasper Schmeichel",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jonas Lössl",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jannik Vestergaard",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Simon Kjær",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Andreas Christensen",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Peter Ankersen",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jens Stryger Larsen",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Lasse Schöne ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Pione Sisto ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Lukas Lerager",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mike Jensen ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Yussuf Poulsen ",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Nicolai Jørgensen ",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "countryName": "Egypt ",
+    "playerList": [
+      {
+        "playerName": "Sherif Ekramy",
+        "playerRole": "Gk"
+      },
+      {
+        "playerName": "Mohamed Awad",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Mohamed El Shenawy\tMohamed El Shenawy",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Ahmed Hegazy",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ali Gabr",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Saad Samir\tSaad Samir",
+        "playerRole": "DEf"
+      },
+      {
+        "playerName": "Mahmoud Hamdi ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ayman Ashraf",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Tarek Hamed",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": " Sam Morsy",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Abdallah Said ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Shikabala\tShikabala",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ahmed Hassan\tAhmed Hassan",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mohamed Salah\tMohamed Salah ",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "countryName": "England ",
+    "playerList": [
+      {
+        "playerName": "Jack Butland",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jordan Pickford ",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Nick Pope",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Trent Alexander-Arnold ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Gary Cahill",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Fabian Delph",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Phil Jones",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Harry Maguire ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Danny Rose",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "John Stones",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kyle Walker ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ashley Young ",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dele Alli ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Eric Dier",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jordan Henderson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jesse Lingard ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ruben Loftus-Cheek",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Harry Kane",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Marcos rashford",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Raheem Sterling",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jamie Vardy",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Danny Welbeck ",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "countryName": "France",
+    "playerList": [
+      {
+        "playerName": "Antoine Griezmann",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Olivier Giroud",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Kylian Mbappe",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ousmane Dembele",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Florian Thauvin",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Nabil Fekir",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Thomas Lemar",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Wissam Ben Yedder",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Kingsley Coman",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Benoit Costil",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Mathieu Debuchy",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Lucas Digne",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Alexandre Lacazette",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Anthony Martial",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Adrien Rabiot",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Mamadou Sakho",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Moussa Sissoko",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Kurt Zouma",
+        "playerRole": "STAND_BY"
+      },
+      {
+        "playerName": "Hugo Lloris",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Steve Mandanda",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Alphonse Areola",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Djibril Sidibe",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Benjamin Pavard",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Samuel Umtiti",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Raphael Varane",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Presnel Kimpembe",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Adil Rami",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Benjamin Mendy",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Lucas Hernandez",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Paul Pogba",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Corentin Tolisso",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Blaise Matuidi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ngolo Kante",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Steven Nzonzi",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "countryName": "Germany",
+    "playerList": [
+      {
+        "playerName": "Bernd Leno",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Manuel Neuer",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Marc-Andre ter Stegen",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kevin Trapp",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Matthias Ginter",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jonas Hector",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jerome Boateng",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mats Hummels",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Niklas Sule and Joshua Kimmich",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marvin Plattenhardt",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Antonio Rudiger",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jonathan Tah",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Julian Brandt",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Julian Draxler",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Mario Gomez",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Leon Goretzka",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Ilkay Gundogan and Leroy Sane",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Sami Khedira",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Toni Kroos",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Thomas Muller and Sebastien Rudy",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Mesut Ozil",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Nils Petersen",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Marco Reus",
+        "playerRole": "MID/FWD"
+      },
+      {
+        "playerName": "Timo Werner",
+        "playerRole": "MID/FWD"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "countryName": "Iceland ",
+    "playerList": [
+      {
+        "playerName": "Alfred Finnbogason",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Bjorn Bergmann Sigurdarson",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jon Dadi Bodvarsson",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Albert Gudmundsson",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Hannes Thor Halldorsson",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Runar Alex Runarsson",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Frederik Schram",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kari Arnason",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ari Freyr Skulason",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Birkir Mar Saevarsson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Sverrir Ingi Ingason",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hordur Magnusson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Holmar Orn Eyjolfsson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ragnar Sigurdsson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Johann Berg Gudmundsson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Birkir Bjarnason",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Arnor Ingvi Traustason",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Emil Hallfredsson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Gylfi Sigurdsson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Olafur Ingi Skulason",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Rurik Gislason",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Samuel Fridjonsson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Aron Gunnarsson",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "countryName": "Iran ",
+    "playerList": [
+      {
+        "playerName": "Saeid Ezatolahi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Masoud Shojaei",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ahmad Abdolahzadeh",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Saman Ghoddos",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mahdi Torabi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ashkan Dejagah",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Omid Ebrahimi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ehsan Hajsafi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ali Karimi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Soroush Rafiei",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ali Gholizadeh",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Vahid Amiri",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ramin Rezaeian",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Voria Ghafouri",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Steven Beitashour",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Seyed Jalal Hosseini",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mohammad Reza Khanzadeh",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Morteza Pouraliganji",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mohammad Ansari",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Pejman Montazeri",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Seyed Majid Hosseini",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Milad Mohammadi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Omid Norafkan",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Saeid AGhaei",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Roozbeh Cheshmi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Alireza Beiranvand",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Seyed Hossein Hosseini",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Rashid Mazaheri",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Amir Abedzadeh",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Alireza Jahanbakhsh",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Karim Ansarifard",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mahdi Taremi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Sardar Azmoun",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Reza Ghoochannejhad",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Kaveh Rezaei",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "countryName": "Japan ",
+    "playerList": [
+      {
+        "playerName": "",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Masaaki Higashiguchi",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kōsuke Nakamura",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Yūto Nagatomo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Maya Yoshida",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hiroki Sakai",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Gōtoku Sakai",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Tomoaki Makino",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Gen Shōji",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Wataru Endō",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Naomichi Ueda",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Makoto Hasebe (captain)",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Keisuke Honda",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Shinji Kagawa",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Hotaru Yamaguchi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Genki Haraguchi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Takashi Inui",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Takashi Usami",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Gaku Shibasaki",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Yōsuke Ideguchi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Toshihiro Aoyama",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Kento Misao",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ryota Oshima",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Shinji Okazaki",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Yūya Ōsako",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Yoshinori Mutō",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Takuma Asano",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "countryName": "Mexico ",
+    "playerList": [
+      {
+        "playerName": "Javier Aquino",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jesus Corona",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Raul Jimenez",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Oribe Peralta",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Javier Hernandez",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Carlos Vela",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Hirving Lozano",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jurgen Damm",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Guillermo Ochoa",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Alfredo Talavera",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jesus Corona",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Diego Reyes",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Carlos Salcedo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hector Moreno",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Oswaldo Alanis",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nestor Araujo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Miguel Layun",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jesus Gallardo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hugo Ayala",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Edson Alvarez",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hector Herrera",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Andres Guardado",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Rafa Marquez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jonathan dos Santos",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Marco Fabian",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jesus Molina",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Erick Gutierrez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Giovani dos Santos",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "countryName": "Morocco ",
+    "playerList": [
+      {
+        "playerName": "Khalid Boutaib",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Aziz Bouhaddouz",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ayoub El Kaabi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Nordin Amrabat",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mehdi Carcela",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Hakim Ziyech",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mounir El Kajoui",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Yassine Bounou",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Ahmad Reda Tagnaouti",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Mehdi Benatia",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Romain Saiss",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Manuel Da Costa",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Badr Benoun",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nabil Dirar",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Achraf Hakimi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hamza Mendyl",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "M'bark Boussoufa",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Karim El Ahmadi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Youssef Ait Bennasser",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Sofyan Amrabat",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Younes Belhanda",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Faycal Fajr",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Amine Harit",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "countryName": "Nigeria ",
+    "playerList": [
+      {
+        "playerName": "Mikel John Obi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ogenyi Onazi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Wilfred Ndidi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Oghenekaro Etebo",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "John Ogu",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Uche Agbo",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Joel Obi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mikel Agu",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Abdullahi Shehu",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Tyronne Ebuehi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Olaoluwa Aina",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Elderson Echiejile",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Bryan Idowu",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Chidozie Awaziem",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "William Ekong",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Leon Balogun",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kenneth Omeruo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Stephen Eze",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Francis Uzoho",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Ikechukwu Ezenwa",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Daniel Akpeyi",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Dele Ajiboye",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Ahmed Musa",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Kelechi Iheanacho",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Moses Simon",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Victor Moses",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Odion Ighalo",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Alex Iwobi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Junior Lokosa",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Simeon Nwankwo",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "countryName": "Panama",
+    "playerList": [
+      {
+        "playerName": "Abdiel Arroyo",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Rolando Blackburn",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ismael Diaz",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jose Fajardo",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Roberto Nurse",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Blas Perez",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Luis Tejada",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Gabriel Torres",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jose Calderon",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jaime Penedo",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Alex Rodríguez",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Azmahar Ariano",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Felipe Baloy",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Harold Cummings",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Eric Davis",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Fidel Escobar",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Adolfo Machado",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Michael Murillo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Luis Ovalle",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Francisco Palacios",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Richard Peralta",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Roman Torres",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ricardo Avila",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Edgar Barcenas",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ricardo Buitrago",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Miguel Camargo",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Adalberto Carrasquilla",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Armando Cooper",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Anibal Godoy",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Gabriel Gomez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jose Gonzalez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Cristian Martínez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Valentin Pimentel",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Alberto Quintero",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jose Luis Rodríguez",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "countryName": "Peru",
+    "playerList": [
+      {
+        "playerName": "Pedro Aquino",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Wilder Cartagena",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Christian Cueva",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Edison Flores",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Paolo Hurtado",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Sergio Pena",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Andy Polo",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Renato Tapia",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Yoshimar Yotun",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Luis Abram",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Luis Advíncula",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Miguel Araujo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Aldo Corzo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nilson Loyola",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Christian Ramos",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Alberto Rodríguez",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Anderson Santamaría",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Miguel Trauco",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Pedro Gallese and Carlos Caceda",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jose Carvallo",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Andre Carrillo",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Raul Ruidiaz",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Jefferson Farfan",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "countryName": "Poland",
+    "playerList": [
+      {
+        "playerName": "Dawid Kownacki",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Robert Lewandowski",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Arkadiusz Milik",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Krzysztof Piatek",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Lukasz Teodorczyk",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Kamil Wilczek",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Bartosz Bialkowski",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Lukasz Fabianski",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Lukasz Skorupski",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Wojciech Szczesny",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Jan Bednarek",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Bartosz Bereszynski",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Thiago Cionek",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kamil Glik",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Artur Jedrzejczyk",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marcin Kaminski",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Tomasz Kedziora",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Michal Pazdan",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Lukasz Piszczek",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jakub Blaszczykowski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Pawel Dawidowicz",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Przemyslaw Frankowski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jacek Goralski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Kamil Grosicki",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Damian Kadzior",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Grzegorz Krychowiak",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Rafal Kurzawa",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Karol Linetty",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Maciej Makuszewski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Krzysztof Maczynski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Slawomir Peszko",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Maciej Rybus",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Sebastian Szymanski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Piotr Zielinski",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Szymon Zurkowski",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "countryName": "Portugal ",
+    "playerList": [
+      {
+        "playerName": "Adrien Silva",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Andre Gomes",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Bernardo Silva",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Bruno Fernandes",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Joao Mario",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Joao Moutinho",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Manuel Fernandes",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Rony Lopes",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ruben Neves",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Sergio Oliveira",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "William",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Antunes",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Bruno Alves",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Cedric",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Joao Cancelo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jose Fonte",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Luis Neto",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mario Rui",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nelson Semedo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Pepe",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Raphael Guerreiro",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ricardo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Rolando",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ruben Dias",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Anthony Lopes",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Beto",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Rui Patricio",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Andre Silva",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Cristiano Ronaldo",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Eder",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Gelson Martins",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Goncalo Guedes",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Nani",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Paulinho",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ricardo Quaresma",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "countryName": "Russia ",
+    "playerList": [
+      {
+        "playerName": "Artem Dzyuba",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Aleksey Miranchuk",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Fedor Smolov",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Fedor Chalov",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Igor Akinfeev",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Vladimir Gabulov",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Soslan Dzhanaev",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Andrey Lunev",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Vladimir Granat",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ruslan Kambolov",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Fedor Kudryashov",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ilya Kutepov",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Roman Neustadter",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Konstantin Rausch",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Andrey Semenov",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Igor Smolnikov",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mario Fernandes",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Yuri Gazinskiy",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Alexsandr Golovin",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Alan Dzagoev",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Alexsandr Erokhin",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Yuri Zhirkov",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Daler Kuzyaev",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Roman Zobnin",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Alexsandr Samedov",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Anton Miranchuk",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Alexsandr Tashaev",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Denis Cheryshev",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "countryName": "Saudi Arabia ",
+    "playerList": [
+      {
+        "playerName": "Fahad Al-Muwallad",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mohammad Al-Sahlawi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Muhannad Assiri",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Assaf Al-Qarny",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Mohammed Al-Owais",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Yasser Al-Musailem",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Abdullah Al-Mayuf",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Mansoor Al-Harbi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Yasser Al-Shahrani",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mohammed Al-Breik",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Saeed Al-Mowalad",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Motaz Hawsawi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Osama Hawsawi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Omar Hawsawi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mohammed Jahfali",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ali Al-Bulaihi",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Abdullah Al-Khaibari",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Abdulmalek Al-Khaibri",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Abdullah Otayf",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Taiseer Al-Jassim",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Houssain Al-Mogahwi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Salman Al-Faraj",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Nawaf Al-Abed",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mohamed Kanno",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Hattan Bahebri",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mohammed Al-Kwikbi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Salem Al-Dawsari",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Yehya Al-Shehri",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "countryName": "Senegal ",
+    "playerList": [
+      {
+        "playerName": "Keita Balde",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mame Biram Diouf",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Moussa Konate",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Sadio Mane",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mbaye Niang",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Diafra Sakho",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Moussa Sow",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Abdoulaye Diallo",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Alfred Gomis",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Khadim Ndiaye",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Lamine Gassama",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Saliou Ciss",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kalidou Koulibaly",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kara Mbodii",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Youssouf Sabaly",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Salif Sane",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Moussa Wague",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "M'bark Boussoufa",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Karim El Ahmadi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Youssef Ait Bennasser",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Sofyan Amrabat",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Younes Belhanda",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Faycal Fajr",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Amine Harit",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "countryName": "Serbia ",
+    "playerList": [
+      {
+        "playerName": "Vladimir Stojković",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Predrag Rajković",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Marko Dmitrović",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Branislav Ivanović",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Aleksandar Kolarov (captain)",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Antonio Rukavina",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ivan Obradović",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Matija Nastasić",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Duško Tošić",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nikola Maksimović",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dušan Basta",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Miloš Veljković",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dušan Tadić",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Nemanja Matić (vice-captain)",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Adem Ljajić",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Luka Milivojević",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Filip Kostić",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Andrija Živković",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mijat Gaćinović",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Marko Grujić",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Nemanja Maksimović",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Aleksandar Mitrović",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Aleksandar Prijović",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "countryName": "South Korea",
+    "playerList": [
+      {
+        "playerName": "Kim Shinwook",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Son Heungmin",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Hwang Heechan",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Lee Keunho",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Kim Seunggyu",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kim Jinhyeon",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Cho Hyeonwoo",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kim Younggwon",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jang Hyunsoo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jeong Seunghyeon",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Yun Yeongseon",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kwon Kyungwon",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Oh Bansuk",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kim Jinsu",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kim Minwoo",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Park Jooho",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Hong Chul",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Go Yohan",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Lee Yong",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ki Sungyueng",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jeong Wooyoung",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Kwon Changhoon",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ju Sejong",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Koo Jacheol",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Lee Jaesung",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Lee Seungwoo",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Moon Sunmin",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Lee Chungyong",
+        "playerRole": "MID"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "countryName": "Spain ",
+    "playerList": [
+      {
+        "playerName": "Pepe Reina",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "David de Gea",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kepa Arrizabalaga",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Sergio Ramos (captain)",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Gerard Piqué",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jordi Alba",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "César Azpilicueta",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dani Carvajal",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Nacho",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Álvaro Odriozola",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Marcos Alonso",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Andrés Iniesta",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Koke",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Isco",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Thiago",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Marco Asensio",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Saúl",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Daniel Parejo",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Rodri",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Diego Costa",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Iago Aspas",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Lucas Vázquez",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Rodrigo",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "countryName": "Sweden ",
+    "playerList": [
+      {
+        "playerName": "Emil Forsberg",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Albin Ekdal",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Viktor Claesson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Gustav Svensson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Sebastian Larsson",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jimmy Durmaz",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Oscar Hiljemark",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Marcus Rohden",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mikael Lustig",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Victor Nilsson-Lindelof",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Andreas Granqvist",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Martin Olsson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ludwig Augustinsson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Filip Helander",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Pontus Jansson",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Emil Krafth",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Robin Olsen",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Karl-Johan Johnsson",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Kristoffer Nordfeldt",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Marcus Berg",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ola Toivonen",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "John Guidetti",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Isaac Kiese-Thelin",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "countryName": "Switzerland ",
+    "playerList": [
+      {
+        "playerName": "Yann Sommer",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Roman Bürki",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Gregor Kobel",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Yvon Mvogo",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Stephan Lichtsteiner (Captain)",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Johan Djourou",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ricardo Rodríguez",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Fabian Schär",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Michael Lang",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Timm Klose",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "François Moubandje",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Silvan Widmer",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Manuel Akanji",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Kevin Mbabu",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Valon Behrami",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Xherdan Shaqiri",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Gelson Fernandes",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Blerim Džemaili",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Granit Xhaka",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Fabian Frei",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Steven Zuber",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Remo Freuler ",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Denis Zakaria",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Luca Zuffi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Edimilson Fernandes",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Djibril Sow",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Eren Derdiyok",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Albian Ajeti",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Dimitri Oberlin",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Mario Gavranović",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Breel Embolo",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Josip Drmić",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Haris Seferović",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Admir Mehmedi",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "countryName": "Tunisia ",
+    "playerList": [
+      {
+        "playerName": "Elyess Skhiri",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mohamed Amine Ben Amor",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ghaylene Chalali",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Karim Laaribi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ferjani Sassi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Ahmed Khlil",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Seifeddine Khaoui",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Mohamed Wael Arbi",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Hamdi Nagguez",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Dylan Bronn",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Rami Bedoui",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Yohan Ben Olouane",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Siyam Ben Youssef",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Yessine Meriah",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Bilel Mohsni",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Khalil Chammam",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Oussama Haddai",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Ali Maaloul",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Mathlouthi Aymen",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Ben Cherifia Moez",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Ben Mustapha Farouk",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Moez Hassen",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Fakhreddine Ben Youssef",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Anice Badri",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Bassem Srarfi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Ahmed Akaichi",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Wahbi Khazri",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Naim Sliti",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Sabeur Khlifa",
+        "playerRole": "FWD"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "countryName": "Uruguay ",
+    "playerList": [
+      {
+        "playerName": "Nahitan Nandez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Lucas Torreira",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Matias Vecino",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Federico Valverde",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Rodrigo Bentancur",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Carlos Sanchez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Giorgian De Arrascaeta",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Diego Laxalt",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Cristian Rodriguez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Jonathan Urretaviscaya",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Nicolas Lodeiro",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Gaston Ramirez",
+        "playerRole": "MID"
+      },
+      {
+        "playerName": "Diego Godin",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Sebastian Coates",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Jose Maria Gimenez",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Maximiliano Pereira",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Gaston Silva",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Martin Caceres",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Guillermo Varela",
+        "playerRole": "DEF"
+      },
+      {
+        "playerName": "Fernando Muslera",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Martin Silva",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Martin Campana",
+        "playerRole": "GK"
+      },
+      {
+        "playerName": "Cristhian Stuani",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Maximiliano Gomez",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Edinson Cavani",
+        "playerRole": "FWD"
+      },
+      {
+        "playerName": "Luis Suarez",
+        "playerRole": "FWD"
+      }
+    ]
+  }
+]
