@@ -249,7 +249,7 @@
   },
   {
     "id": "5",
-    "countryName": "Columbia",
+    "countryName": "Colombia",
     "playerList": [
       {
         "playerName": "Danijel Subasic",
@@ -1143,10 +1143,6 @@
     "id": "15",
     "countryName": "Japan ",
     "playerList": [
-      {
-        "playerName": "",
-        "playerRole": "GK"
-      },
       {
         "playerName": "Masaaki Higashiguchi",
         "playerRole": "GK"
