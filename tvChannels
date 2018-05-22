@@ -1,0 +1,47 @@
+{
+  "tvchannels": [
+    {
+      "id": 1,
+      "name": "Sony SIX",
+      "icon": "",
+      "country": "",
+      "iso2": "",
+      "lang": "[]",
+      "url": "https://www.sonyliv.com/"
+    },
+    {
+      "id": 2,
+      "name": "Sony Ten 1 ",
+      "icon": "",
+      "country": "",
+      "iso2": "",
+      "lang": "[]",
+      "url": "https://www.sonyliv.com/"
+    }, {
+      "id": 3,
+      "name": "Sony Ten 2",
+      "icon": "",
+      "country": "",
+      "iso2": "",
+      "lang": "[]",
+      "url": "https://www.sonyliv.com/"
+    },{
+      "id": 4,
+      "name": "Sony Ten 3",
+      "icon": "",
+      "country": "",
+      "iso2": "",
+      "lang": "[]",
+      "url": "https://www.sonyliv.com/"
+    },
+    {
+      "id": 5,
+      "name": "Sony LIV",
+      "icon": "",
+      "country": "",
+      "iso2": "",
+      "lang": "[]",
+      "url": "https://www.sonyliv.com/"
+    }
+  ]
+}
