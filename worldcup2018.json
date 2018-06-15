@@ -325,7 +325,7 @@
     "a": {
       "name": "Group A",
       "winner": "Winner : Not Decided Yet",
-      "runnerup": ""Runnerup : Not Decided Yet",
+      "runnerup": "Runnerup : Not Decided Yet",
       "matches": [
         {
           "name": 1,
