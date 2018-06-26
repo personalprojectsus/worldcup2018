@@ -324,8 +324,8 @@
   "groups": {
     "a": {
       "name": "Group A",
-      "winner": "Winner : Not Decided Yet",
-      "runnerup": "Runnerup : Not Decided Yet",
+      "winner": "Winner : Uruguay",
+      "runnerup": "Runnerup : Russia",
       "matches": [
         {
           "name": 1,
@@ -427,8 +427,8 @@
     },
     "b": {
       "name": "Group B",
-      "winner": "Winner : Not Decided Yet",
-      "runnerup": "Runnerup : Not Decided Yet",
+      "winner": "Winner : Spain",
+      "runnerup": "Runnerup : Portugal",
       "matches": [
         {
           "name": 3,
