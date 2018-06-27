@@ -530,8 +530,8 @@
     },
     "c": {
       "name": "Group C",
-      "winner": "Winner : Not Decided Yet",
-      "runnerup": "Runnerup : Not Decided Yet",
+      "winner": "Winner : France",
+      "runnerup": "Runnerup : Denmark",
       "matches": [
         {
           "name": 5,
@@ -633,8 +633,8 @@
     },
     "d": {
       "name": "Group D",
-      "winner": "Winner : Not Decided Yet",
-      "runnerup": "Runnerup : Not Decided Yet",
+      "winner": "Winner : Croatia",
+      "runnerup": "Runnerup : Argentina",
       "matches": [
         {
           "name": 7,
